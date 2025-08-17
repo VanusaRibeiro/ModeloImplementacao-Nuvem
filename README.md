@@ -7,7 +7,7 @@ Este relatório apresenta o processo de implementação de ferramentas na empres
 O objetivo do projeto foi elencar 3 serviços AWS, com a finalidade de realizar diminuição de custos imediatos.<br>
 
 <h2>Descrição do Projeto<br></h2>
-O projeto de implementação de ferramentas foi dividido em 3 etapas, cada uma com seus objetivos específicos. A seguir, serão descritas as etapas do projeto:
+O projeto de implementação de ferramentas foi dividido em 3 etapas, cada uma com seus objetivos específicos. A seguir, serão descritas as etapas do projeto:<br><br>
 
 Etapa 1:<br>
 Auto Scaling + Elastic Load Balancing<br>
@@ -27,8 +27,8 @@ Executa código sob demanda sem manter servidores,ou seja,Ele executa código em
 A implementação dessas ferramentas na Abstergo Industries tem como esperado a redução de custos de infraestrutura, maior escalabilidade dos serviços e aumento da eficiência operacional.<br><br>
 
 <h2>Anexos<br></h2>
-Amazon EC2 Reserved Instances: https://aws.amazon.com/ec2/pricing/reserved-instances/ Manual de Segurança e Criptografia no Amazon S3: https://docs.aws.amazon.com/AmazonS3/latest/userguide/security-best-practices.html<br> Relatório de Conformidade HIPAA na AWS: https://aws.amazon.com/compliance/hipaa-compliance/
-
-Assinatura do Responsável pelo Projeto:
+Amazon EC2 Reserved Instances: https://aws.amazon.com/ec2/pricing/reserved-instances/ Manual de Segurança e Criptografia no Amazon S3: https://docs.aws.amazon.com/AmazonS3/latest/userguide/security-best-practices.html<br> Relatório de Conformidade HIPAA na AWS: https://aws.amazon.com/compliance/hipaa-compliance/<br>
+<br>
+Assinatura do Responsável pelo Projeto:<br>
 
 Vanusa Ribeiro
